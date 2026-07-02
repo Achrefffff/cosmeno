@@ -54,7 +54,7 @@ export const Footer = () => {
               Nous contacter
             </h4>
             <ul className="space-y-4 text-white/70 text-sm">
-              <li>contact@cosmenova.com</li>
+              <li>contact@cosmenova.fr</li>
             </ul>
             <div className="flex gap-4 pt-4">
               {/* Instagram Icon */}
